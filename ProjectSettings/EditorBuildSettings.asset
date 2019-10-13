@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/temp.unity
     guid: 1ca61bed88a3bfa4d87132d147ecb724
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SpiderTest.unity
     guid: a3e3f907ac72e2149aee83924495a425
+  - enabled: 1
+    path: Assets/Scenes/SpiderScenario.unity
+    guid: 01ca09a3d72b6f547b825381a8785674
   m_configObjects: {}
